@@ -36,35 +36,35 @@ I think computers should do boring things that we do not want to do so that we c
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,nginx"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,js,ts,bootstrap"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,html,css,js"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,sqlite"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,vercel,jenkins,githubactions,git"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,aws,azure,vercel,githubactions,git"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,pytest"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm,visualstudio"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,linux"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
     </tr>
 </table>
 
