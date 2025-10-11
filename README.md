@@ -1,15 +1,15 @@
-### Hello 🌎, I'm Darsh Modi
+### Hello, I'm Darsh
 
-A software developer on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
+I think computers should do boring things that we do not want to do so that we can do interesting things that we do want to do.
 
-- 🔭 I’m currently working on various Python and Web Development projects.
+- 🔭 I’m currently working on various projects, mainly data science stuff.
 - 🌱 I’m currently learning more about cloud-native technologies and AI.
-- 💬 Ask me about **Python, Django, FastAPI, JavaScript, React, Next.js, Web Scraping, and more!**
+- 💬 Ask me about process design, user journeys, data collection and visualization.
 - ⚡ Fun fact: I can probably automate that.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/darshmodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshxm&label=Profile%20views&color=0e75b6&style=flat" alt="darshxm" /> </p>
