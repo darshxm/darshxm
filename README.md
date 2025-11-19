@@ -48,7 +48,7 @@ I think computers should do boring things that we do not want to do so that we c
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,aws,azure,vercel,githubactions,git"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,vercel,githubactions,git"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
