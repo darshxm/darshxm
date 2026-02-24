@@ -2,7 +2,7 @@
 
 I think computers should do boring things that we do not want to do so that we can do interesting things that we do want to do.
 
-- 🔭 I’m currently working on various projects, mainly data science stuff. Check out my latest project: [NL Naturalization Reaction Dashboard](https://naturalization-reactions.vercel.app/)
+- 🔭 I’m currently working on various projects, mainly data science stuff. Check out my latest project: [NL Naturalization Reaction Dashboard](https://naturalization-reactions.vercel.app/). See the code (here)[https://github.com/darshxm/naturalization_reactions.git].
 - 🌱 I’m currently learning more about cloud-native technologies and AI.
 - 💬 Ask me about process design, user journeys, data collection and visualization.
 - ⚡ Fun fact: I can probably automate that.
